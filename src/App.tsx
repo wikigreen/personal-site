@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <div className="header">
-        <h1>Hello, I'm Volodymyr Hrynevych</h1>
+        <h1>Hello, I'm Volodymyr Hrynevych!</h1>
       </div>
       <div className="card">
         <p>I'm a Java developer, passionate about java development.</p>
